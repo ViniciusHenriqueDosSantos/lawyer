@@ -1,0 +1,23 @@
+{
+  "short_name": "ERP",
+  "name": "ERP - SISTEMA",
+  "display": "fullscreen",
+  "theme_color": "#4a494a",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "splash_pages": null,
+  "icons": [
+    {
+        "src": "/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+  ]
+}
